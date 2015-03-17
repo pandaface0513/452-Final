@@ -1,0 +1,10 @@
+/*
+ *  Style information for the drawing canvas.
+ */
+
+#canvas {
+	width: 600px;
+	height: 600px;
+	border: 2px solid black;
+	margin-top: 10rem;
+}

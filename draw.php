@@ -2,6 +2,10 @@
     include 'header.php'
 ?>
 
+<link rel="stylesheet" href="css/canvas-style.css">
+<link rel="stylesheet" href="css/page-style.css">
+
+
 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li><a href="index.php">Home</span></a></li>
@@ -22,7 +26,7 @@
       </div>
     </nav>
 
-<div id="canvas" class="container" style="width: 600px; height: 600px; border: 2px solid black; margin-top: 10rem;">
+<div id="canvas" class="container">
     <p> click here </p>
 </div>
 
