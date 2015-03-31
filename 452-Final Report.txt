@@ -1,0 +1,47 @@
+﻿452-Final.swf Movie Report
+---------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       621    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2015-03-30T16:03:14-07:00</xmp:CreateDate> <xmp:MetadataDate>2015-03-30T21:59:53-07:00</xmp:MetadataDate> <xmp:ModifyDate>2015-03-30T21:59:53-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:7C3B4AFB61D7E41198D09F8416E87E1D</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:7C3B4AFB61D7E41198D09F8416E87E1D</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:3FE959D05BD7E41198D09F8416E87E1D</stRef:instanceID> <stRef:documentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:documentID> <stRef:originalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1           8172           8172    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             67           224                  6248
+
+Symbol              Shape Bytes    Text Bytes    ActionScript Bytes
+----------------    -----------    ----------    ------------------
+save_btn                      0            72                     0
+hover_lines                   0             0                     0
+idea                         52            19                     0
+notification_mc               0             0                     0
+notification_mc1             39            22                     0
+userlist_btn                 21            95                     0
+userlist_mc                  40             0                     0
+addcontent_btn                0             0                     0
+comment_btn                  60             0                     0
+idea_mc                       0             0                     0
+connect_btn                  74             0                     0
+
+Font Name            Bytes         Characters
+-----------------    ----------    ----------
+TimesNewRomanPSMT            18    
+ArialMT                      13    
+
+ActionScript Bytes    Location
+------------------    --------
+              6248    Scene 1:Frame 1
+
+Bitmap      Compressed    Original      Compression
+--------    ----------    ----------    -----------
+Bitmap 4            21          1144    Lossless
+
+
+
+
