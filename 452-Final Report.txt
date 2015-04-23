@@ -1,47 +1,90 @@
 ﻿452-Final.swf Movie Report
 ---------------------------
 
+Preloader SWF Wrapping Content SWF
+----------------------------------
+
 Metadata
 --------
 Bytes         Value
 ----------    -----
-       649    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2015-03-30T16:03:14-07:00</xmp:CreateDate> <xmp:MetadataDate>2015-03-31T11:23:59-07:00</xmp:MetadataDate> <xmp:ModifyDate>2015-03-31T11:23:59-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:CF121FD3D2D7E4119947BE8606699DFB</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:CF121FD3D2D7E4119947BE8606699DFB</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:611C908ED0D7E4119947BE8606699DFB</stRef:instanceID> <stRef:documentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:documentID> <stRef:originalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+      1189    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2015-03-30T16:03:14-07:00</xmp:CreateDate> <xmp:MetadataDate>2015-04-22T20:12:10-07:00</xmp:MetadataDate> <xmp:ModifyDate>2015-04-22T20:12:10-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:F748A59864E9E4119104902A7F0F9137</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:F748A59864E9E4119104902A7F0F9137</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F548A59864E9E4119104902A7F0F9137</stRef:instanceID> <stRef:documentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:documentID> <stRef:originalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
 
 Frame #    Frame Bytes    Total Bytes    Scene
 -------    -----------    -----------    -----
-      1           5808           5808    Scene 1 (AS 3.0 Classes Export Frame)
+      1          10109          10109    Scene 1
+      2          32804          42913    Scene 1 (AS 3.0 Classes Export Frame)
 
 Scene      Shape Bytes    Text Bytes    ActionScript Bytes
 -------    -----------    ----------    ------------------
-Scene 1              0             0                  3485
-
-Symbol              Shape Bytes    Text Bytes    ActionScript Bytes
-----------------    -----------    ----------    ------------------
-tabs_mc                      90           247                     0
-addcontent_btn                0             0                     0
-comment_btn                  62             0                     0
-connect_btn                  77             0                     0
-hover_lines                   0             0                     0
-idea                         52            20                     0
-idea_mc                       0             0                     0
-notification_mc               0             0                     0
-notification_mc1             41            23                     0
-save_btn                     18           237                     0
-userlist_btn                 18           158                     0
-userlist_mc                  41             0                     0
-
-Font Name            Bytes         Characters
------------------    ----------    ----------
-TimesNewRomanPSMT            18    
-AllerDisplay                 17    
+Scene 1             44             0                  9162
 
 ActionScript Bytes    Location
 ------------------    --------
-              3485    Scene 1:Frame 1
+              8819    Scene 1:Frame 1
+               343    Scene 1:Frame 2
+
+Binary Data              Bytes         Location
+---------------------    ----------    --------
+Loading Animation SWF          1155    Scene 1:Frame 1
+Content SWF                   32419    Scene 1:Frame 2
+
+
+Content SWF
+-----------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       440    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2015-03-30T16:03:14-07:00</xmp:CreateDate> <xmp:MetadataDate>2015-04-22T20:12:09-07:00</xmp:MetadataDate> <xmp:ModifyDate>2015-04-22T20:12:09-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:F648A59864E9E4119104902A7F0F9137</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:F648A59864E9E4119104902A7F0F9137</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F548A59864E9E4119104902A7F0F9137</stRef:instanceID> <stRef:documentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:documentID> <stRef:originalDocumentID>xmp.did:4A6C18F230D7E411B0C1F6C992F74EC0</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          35477          35477    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1            111             0                 16828
+
+Symbol              Shape Bytes    Text Bytes    ActionScript Bytes
+----------------    -----------    ----------    ------------------
+addcontent_btn                0             0                     0
+comment_btn                  42             0                     0
+connect_btn                  53             0                     0
+<Path>                       26             0                     0
+<Path>_1                     17             0                     0
+<Path>_2                      0             0                     0
+<Path>_6                     20             0                     0
+<Path>_8                     14             0                     0
+CONCEPT 1                     0             0                     0
+CONCEPT 2                     0             0                     0
+hover_lines                   0             0                     0
+idea                         35            13                     0
+idea_mc                       0             0                     0
+notification_mc               0             0                     0
+notification_mc1             28            16                     0
+save_btn                     12           159                     0
+tabs_mc                      61           166                     0
+userlist_btn                  0           106                     0
+userlist_mc                  28             0                     0
+
+Font Name                            Bytes         Characters
+---------------------------------    ----------    ----------
+ProximaNova-Regular                        4037    CONEPT 21 
+Constantia-BoldItalic Bold Italic          6127    otifN
+ProximaNova-Bold Bold                      3272    HACK ONEPT 
+ProximaNova-Semibold Bold                  3225    USERTMAV
+TimesNewRomanPSMT                            12    
+AllerDisplay                                 12    
+
+ActionScript Bytes    Location
+------------------    --------
+             16828    Scene 1:Frame 1
 
 Bitmap      Compressed    Original      Compression
 --------    ----------    ----------    -----------
-Bitmap 4            22          1144    Lossless
+Bitmap 4            15          1144    Lossless
 
 
 
